@@ -1,5 +1,5 @@
 # Hello there👋,
-
+![](https://komarev.com/ghpvc/?username=Magguire)
 
 ## Welcome to my github profile.😎
 

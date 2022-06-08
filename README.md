@@ -6,7 +6,7 @@
 ####  My name is Elizabeth and I am on the fastest route to becoming a Data Scientist.(❁´◡`❁)
 
 
-![I am on the fastest route to becoming a certified Data Scientist.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am on the fastest route to becoming a certified Data Scientist.](https://github.com/Magguire/Magguire/blob/main/woman3.jpg)
 
 I am a university graduate of Mathematics and Computer Science. Maths and Statistics have become the core foundation of my career journey which led me heads on into Data Science. I enjoy leveraging data for insights. With data, we have the future in our hands. Let's explore.
 

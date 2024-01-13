@@ -30,7 +30,7 @@ I am a university graduate of Mathematics and Computer Science. Maths and Statis
 
 - 🔭 <b>I’m currently working on</b> Machine Learning Fundamentals  
 - 🌱 <b>I’m currently learning</b> R programming 
-- 📫 <b>How to reach me:</b> wambeliza@gmail.com 
+- 📫 <b>How to reach me:</b> elizabeth.w.kihungi@gmail.com 
 
 <br>
 - ⚡ <i>Data insight outshines human intelligence</i> 

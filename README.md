@@ -17,7 +17,8 @@ I am a university graduate of Mathematics and Computer Science. Maths and Statis
 
 
 #### My Skills: 
-* 🐕‍🦺 Python/Pandas/Numpy                          
+* 🐕‍🦺 Python for Software Development: Django/Flask
+* 🐕Python for Data Science: Pandas/Numpy                          
 * 😁 SQL
 * 🤗 R
 * 🐴 Tableau

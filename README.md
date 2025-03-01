@@ -34,7 +34,7 @@ I am a university graduate of Mathematics and Computer Science. Maths and Statis
 - 📫 <b>How to reach me:</b> elizabeth.w.kihungi@gmail.com 
 
 <br>
-- ⚡ <i>Data insight outshines human intelligence</i> 
+- ⚡ <i>Data insight outshines human intuition</i> 
 
 
        
